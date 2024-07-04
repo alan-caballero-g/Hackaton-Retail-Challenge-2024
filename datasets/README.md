@@ -1,4 +1,4 @@
-#HACKATHON - Retail Store - Tripleten
+# HACKATHON - Retail Store - Tripleten
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Datos sin procesar
